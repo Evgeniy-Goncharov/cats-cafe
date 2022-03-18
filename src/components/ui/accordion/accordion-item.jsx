@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { TitleWrapper, Button, Wrapper, ContentWrapper, TextComponent } from "./styles";
+import { TitleWrapper, Button, Wrapper, ContentWrapper } from "./styles";
 
 export default function AccordionItem ({
     titleComponent,
